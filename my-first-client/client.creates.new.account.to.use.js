@@ -1,3 +1,12 @@
+/**********************************************************************
+* This program assumes you have deployed your on-chain program.
+* You should see the on-chain entry point message in the terminal
+* running 'solana logs' when you run this client.
+*
+* To find out if your program is deployed on the test validator,
+* make sure you're running it in one window, and in another window,
+* Enter:   "solana program show --programs"
+**********************************************************************/
 const solanaWeb3 = require('@solana/web3.js');
 const Connection = solanaWeb3.Connection;
 const Keypair = solanaWeb3.Keypair;
