@@ -25,7 +25,7 @@ const wallet = Keypair.fromSecretKey(
   ])
 );
 
-// fill this by copy-pasting what you have in your wallet keypair json file, but
+// fill this by copy-pasting what you have in your deployed program keypair json file, but
 // DONT copy the brackets, just the numbers and commas
 // the deployed program keypair json file should have same name as and be in
 // same directory as the deployed eBPF  blahblah.so lib file.

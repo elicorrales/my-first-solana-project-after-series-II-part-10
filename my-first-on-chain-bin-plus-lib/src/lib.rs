@@ -14,7 +14,7 @@ entrypoint!(process_instruction);
 pub fn process_instruction(
     program_id: &Pubkey,       
     accounts: &[AccountInfo],  
-    _instruction_data: &[u8],  
+    instruction_data: &[u8],  
   ) -> ProgramResult {
 
     msg!("This is the entry point.");
