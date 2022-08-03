@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/IamDeveloper/MyGitHub/my-first-solana-project-after-series-II-part-10/my-first-on-chain-bin-plus-lib/target/bpfel-unknown-unknown/release/build/typenum-ead1e373bfe4339d/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/IamDeveloper/MyGitHub/my-first-solana-project-after-series-II-part-10/my-first-on-chain-bin-plus-lib/target/bpfel-unknown-unknown/release/build/typenum-ead1e373bfe4339d/out/op.rs
